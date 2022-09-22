@@ -39,12 +39,12 @@ Volem gestionar un hotel, en concret, les taules del restaurant i les habitacion
 S’ha de realitzar cada exercici en php
 
 El restaurant estarà format per 10 taules, on cada taula hi caben fins a 5 comensals. Volem una sortida a la terminal tal que:
-![act2cap1](https://user-images.githubusercontent.com/64970845/191821082-2d2a5967-8c9a-473e-8b8b-8afe54d5222a.png)
+![act2ex2](https://user-images.githubusercontent.com/64970845/191824350-bf0b1caa-39aa-4b8e-a998-0811066e69cb.png)
 
 
 Es tracta de programar la gestió d’habitacions d’un hotel. Imagineu un hotel amb 5 plantes i 10 habitacions en cadascuna de les plantes. Es vol guardar el nombre de clients que hi ha en cada habitació. Com a màxim hi pot haver 4 clients per habitació.
 
-![act2cap2](https://user-images.githubusercontent.com/64970845/191821222-59cfdcfc-cef0-4549-b534-08e6f4d9a6ba.png)
+![act2ex2](https://user-images.githubusercontent.com/64970845/191824248-8281ad17-e888-4e33-881c-40e744d03350.png)
 
 
 ### Act2 Authors✒️
