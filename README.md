@@ -1,6 +1,6 @@
-# Activitat 1 - PHP
+# Activitats M07
 
-## Exercici
+## Exercici 1
 DESCRIURE PERSONA en PHP
 	
 Crear una persona la qual haurà de tindre els següents atributs.:
@@ -26,7 +26,7 @@ Al navegador veiem algo semblant aixo:
 ![cap4](https://user-images.githubusercontent.com/64970845/191341880-0f3c5453-50d4-4fce-9a02-a813414b223d.png)
 
 
-## Repository Authors✒️
+## Act1 Authors✒️
 
 -   Joel Felipe Díaz Carissimi - [joeldiazcc](https://github.com/joeldiazcc)
 
